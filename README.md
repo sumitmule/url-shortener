@@ -29,6 +29,7 @@ The website has a text box where users are supposed to paste their URL and the w
  1. Generating random unique ID's
  2. Database connectivity with MongoDB
  3. Use of Express.js for routing
+ 4. Use of view engine like ejs
  <br> 
   
  > User experience can be improved by using a well designed UI. 😄
