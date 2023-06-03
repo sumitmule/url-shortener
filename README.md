@@ -1,5 +1,5 @@
 # URL Shortener
-A URL shortener built using  *uuid4* with MongoDB connectivity 🔗 
+A URL shortener built using **uuid4** with MongoDB connectivity 🔗 
 
  <br> 
   
